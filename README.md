@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-vue.js+mongodb+node.js
+vue.js+element-ui+mongodb+node.js
 
 可以不用安装，模块依赖，直接运行即可
 
